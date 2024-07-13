@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 22,
+    "articles": [
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Biden news conference: Can he shake the doubters?",
+        "description": "Joe Biden's post-NATO news conference is seen as a critical test to quiet those calling on him to drop out of the U.S. presidential race. The National’s guest host Juanita Taylor asks Washington insider Brian Stelter to break down his performance and what cou…",
+        "url": "http://www.cbc.ca/player/play/video/9.6446011",
+        "urlToImage": "https://i.cbc.ca/ais/dad2a737-b4fb-47db-adb9-ee03a007da59,1720742893693/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%281180%29",
+        "publishedAt": "2024-07-12T06:22:17.0202855Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "il-sole-24-ore",
+          "name": "Il Sole 24 Ore"
+        },
+        "author": null,
+        "title": "Guerra ultime notizie. Gaza, Netanyahu invia negoziatori al Cairo. Ambasciatore russo in Usa: «Nato prepara la guerra»",
+        "description": "«Il vertice della Nato a Washington ha chiarito che i Paesi aderenti hanno imboccato la strada della preparazione alla guerra». Così l’ambasciatore russo negli Stati Uniti Anatoly Antonov, secondo quanto riporta la Tass. «Gli Stati Uniti e tutti gli altri Pae…",
+        "url": "https://www.ilsole24ore.com/art/guerra-ultime-notizie-tregua-gaza-netanyah-invia-nuovi-negoziatori-cairo-ambasciatore-russo-usa-vertice-nato-prepara-guerra-AFWay2mC",
+        "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/07/13/Immagini/Ritagli/AFP_363W6P9-U35853513448DQT-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
+        "publishedAt": "2024-07-12T05:47:48Z",
+        "content": "Joe Biden lha visto lucido? Lho visto bene. Ho parlato con Biden in diverse occasioni, mi ha fatto una bella impressione, limpressione del presidente degli Stati Uniti dAmerica. Insomma, di una perso… [+169 chars]"
+      },
+      {
+        "source": {
+          "id": "les-echos",
+          "name": "Les Echos"
+        },
+        "author": null,
+        "title": "EN DIRECT - Depuis Washington, Emmanuel Macron se veut rassurant sur la situation en France",
+        "description": "Le Nouveau Front populaire continue les discussions afin de pouvoir proposer un nom qui puisse faire consensus pour le futur Premier ministre. Depuis Washington, Emmanuel Macron a refusé de commenter la situation politique française mais affirmé que la France…",
+        "url": "https://www.lesechos.fr/politique-societe/politique/direct-legislatives-nouveau-gouvernement-le-point-sur-la-situation-ce-vendredi-12-juillet-2107391",
+        "urlToImage": "https://media.lesechos.com/api/v1/images/view/6690b85eaa7df911b119c37a/1280x720/01102759155540-web-tete.jpg",
+        "publishedAt": "2024-07-12T05:43:47Z",
+        "content": "Près d'une semaine après le second tour des élections législatives, la situation politique française reste confuse. Le Nouveau Front populaire, arrivé en tête, cherche toujours un nom à proposer pour… [+3407 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn-es",
+          "name": "CNN Spanish"
+        },
+        "author": "Melissa Velásquez Loaiza",
+        "title": "CNN verifica: las afirmaciones falsas y engañosas de Biden en una rueda de prensa de alto nivel",
+        "description": "El presidente Joe Biden dio una conferencia de prensa en solitario este jueves después de una cumbre de la OTAN en Washington, tratando de tranquilizar a los votantes preocupados por su capacidad para servir y a los funcionarios demócratas preocupados por su …",
+        "url": "https://cnnespanol.cnn.com/2024/07/12/cnn-verifica-afirmaciones-falsas-enganosas-biden-rueda-prensa-otan-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/07/Biden-OTAN-cumbre-candidatura-factc-check-e1720757890721.jpg?quality=100&strip=info",
+        "publishedAt": "2024-07-12T05:14:59Z",
+        "content": "Biden aclara dudas sobre pruebas cognitivas 2:42\r\n(CNN) -- El presidente Joe Biden dio una conferencia de prensa en solitario este jueves después de una cumbre de la OTAN en Washington, tratando de t… [+5634 chars]"
+      }
+    ]
+  }
