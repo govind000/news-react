@@ -28,7 +28,7 @@ export class News extends Component {
         }
     }
     async componentDidMount() {
-        let url = `https://newsapi.org/v2/top-headlines?sources=techcrunch&from=2024-05-12s&pagesize=8&apikey=a8b62495c790457ebed5bf0fc959f5d1`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&apiKey=a8bda7e4b0e941ed907b066a19747f7a&page=1&pageSize=${this.props.pageSize}&category=${this.props.category}`;
         this.setState({
             loading: true
         });
